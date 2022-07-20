@@ -1,10 +1,10 @@
 {
-  "name": "ngx-pinch-zoom",
-  "version": "2.5.5",
-  "description": "Pinch zoom component for Angular.",
+  "name": "ngx-pinch-zoom-idlab",
+  "version": "3.0.0",
+  "description": "Pinch zoom component for Angular 12 forked from https://github.com/drozhzhin-n-e/ngx-pinch-zoom.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drozhzhin-n-e/ngx-pinch-zoom.git"
+    "url": "git+https://gitlab.com/idlab-geneva/ngx-pinch-zoom"
   },
   "author": {
     "name": "Nikita Drozhzhin",
@@ -13,7 +13,7 @@
   "homepage": "http://ivylab.space/pinch-zoom",
   "keywords": [
     "Angular",
-    "Angular 2",
+    "Angular 12",
     "ngx",
     "ng2",
     "Pinch zoom",
@@ -22,11 +22,11 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drozhzhin-n-e/ngx-pinch-zoom/issues"
+    "url": "https://gitlab.com/idlab-geneva/ngx-pinch-zoom/-/issues"
   },
   "peerDependencies": {
-    "@angular/common": "^11.1.2",
-    "@angular/core": "^11.1.2"
+    "@angular/common": "~12.2.16",
+    "@angular/core": "~12.2.16"
   },
   "dependencies": {
     "tslib": "^2.0.0"
