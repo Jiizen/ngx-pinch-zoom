@@ -2,7 +2,7 @@ import {NgModule} from '@angular/core';
 import {BrowserModule} from '@angular/platform-browser';
 import {AppRoutingModule} from './app-routing.module';
 import {AppComponent} from './app.component';
-import {PinchZoomModule} from "../../projects/ngx-pinch-zoom/src/lib/pinch-zoom.module";
+import {PinchZoomModule} from 'ngx-pinch-zoom';
 
 @NgModule({
   declarations: [
