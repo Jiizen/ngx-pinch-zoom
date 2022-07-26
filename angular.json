@@ -132,7 +132,7 @@
         }
       }
     },
-    "ngx-pinch-zoom": {
+    "ngx-pinch-zoom-idlab": {
       "projectType": "library",
       "root": "projects/ngx-pinch-zoom",
       "sourceRoot": "projects/ngx-pinch-zoom/src",

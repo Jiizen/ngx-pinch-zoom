@@ -1,4 +1,4 @@
-# Pinch zoom for Angular
+# Pinch zoom for Angular 12
 
 <img src="https://badgen.net/bundlephobia/min/ngx-pinch-zoom" />
 
@@ -12,12 +12,12 @@ Live demos and source code samples can be found on [home page](http://ivylab.spa
 
 Install the npm package.
 ```
-npm i ngx-pinch-zoom
+npm i ngx-pinch-zoom-idlab
 ```
 
 Import module:
 ```ts
-import { PinchZoomModule } from 'ngx-pinch-zoom';
+import { PinchZoomModule } from 'ngx-pinch-zoom-idlab';
 
 @NgModule({
     imports: [ PinchZoomModule ]

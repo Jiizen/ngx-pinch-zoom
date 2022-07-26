@@ -11,9 +11,9 @@
     "moduleResolution": "node",
     "importHelpers": true,
     "paths": {
-      "ngx-pinch-zoom": [
-        "dist/ngx-pinch-zoom/ngx-pinch-zoom",
-        "dist/ngx-pinch-zoom"
+      "ngx-pinch-zoom-idlab": [
+        "dist/ngx-pinch-zoom-idlab/ngx-pinch-zoom",
+        "dist/ngx-pinch-zoom-idlab"
       ]
     },
     "target": "es2015",

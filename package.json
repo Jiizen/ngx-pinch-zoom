@@ -1,6 +1,6 @@
 {
-  "name": "ngx-pinch-zoom",
-  "version": "0.0.0",
+  "name": "ngx-pinch-zoom-idlab",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
